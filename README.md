@@ -13,6 +13,6 @@ See for how to apply for microdata: http://ec.europa.eu/eurostat/documents/20364
 
 To run the code, you need to change the working directory ("cd") and the directories for data source in each do file. The outputs will then be saved to the specified working directory.
 
-To replicate the whole analysis, you can run the Master Do file (Beduk2018_Miss_DX_Masterfile.do), which will call each do file and execute them in order.
+To replicate the whole analysis, you can run the Master Do file (Beduk2018_Zeros_DX_Masterfile.do), which will call each do file and execute them in order.
 
 To run the analysis, you will need STATA 14 (or more recent versions).
