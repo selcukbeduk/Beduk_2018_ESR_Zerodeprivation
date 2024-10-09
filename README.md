@@ -1,7 +1,7 @@
 # Beduk_2018_ESR_Zerodeprivation
 Code repository for replicating
 
-Bedük, S. (2018). Bedük, S. (2018). Understanding material deprivation for 25 EU countries: risk and level perspectives, and distinctiveness of zeros. _European Sociological Review_, 34(2), 121-137. https://doi.org/10.1093/esr/jcx089
+Bedük, S. (2018). Understanding material deprivation for 25 EU countries: risk and level perspectives, and distinctiveness of zeros. _European Sociological Review_, 34(2), 121-137. https://doi.org/10.1093/esr/jcx089
 
 The analysis uses data from EU-SILC 2009 including register, household and individual files and deprivation module variables.
 
